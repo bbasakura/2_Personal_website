@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://bbasakura.github.io/"/>
-  <updated>2019-12-24T08:26:17.186Z</updated>
+  <updated>2019-12-25T03:51:10.458Z</updated>
   <id>https://bbasakura.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>md语法插入图片</title>
+    <link href="https://bbasakura.github.io/posts/12430667888.html"/>
+    <id>https://bbasakura.github.io/posts/12430667888.html</id>
+    <published>2019-12-25T03:34:23.054Z</published>
+    <updated>2019-12-25T03:51:10.458Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Wed Dec 25 2019 11:53:08 GMT+0800 (GMT+08:00) --><p>之前是用到了一个资源插件，最后的结果是每次新建一篇文章会在目录下生成同名的资源文件夹，个人感觉这样有些麻烦，使用md语法插入图片进行测试，测试当中没有裂图，当前在本地测试，还没推送到git上。刚才一直在研究hexo-admin【在线发布后台】，不过没有成功，最后一步deploy时，报错。而且本地环境是windows,干脆暂时不写，而是将一个shell脚本文件放到桌面，发布文章就在post目录下新建md文件，编写好之后，用shell脚本文件，一键发布[就当是一键发布了]，哈哈哈。</p><p>使用md语法插入图片:</p><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">![<span class="string">bk5.jpg</span>](<span class="link">/images/bk5.jpg "测试图"</span>)</span><br></pre></td></tr></table></figure><p><img src="/images/bk5.jpg" alt="bk5.jpg" title="测试图"></p><p><img src="/images/%E8%83%8C%E6%99%AF%E5%9B%BE.jpg" alt="背景图.jpg" title="测试图"></p><a id="more"></a><h2 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h2><h3 id="新建一片文章"><a href="#新建一片文章" class="headerlink" title="新建一片文章"></a>新建一片文章</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>更多: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Wed Dec 25 2019 11:53:08 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;之前是用到了一个资源插件，最后的结果是每次新建一篇文章会在目录下生成同名的资源文件夹，个人感觉这样有些麻烦，使用md语法插入图片进行测试，测试当中没有裂图，当前在本地测试，还没推送到git上。刚才一直在研究hexo-admin【在线发布后台】，不过没有成功，最后一步deploy时，报错。而且本地环境是windows,干脆暂时不写，而是将一个shell脚本文件放到桌面，发布文章就在post目录下新建md文件，编写好之后，用shell脚本文件，一键发布[就当是一键发布了]，哈哈哈。&lt;/p&gt;&lt;p&gt;使用md语法插入图片:&lt;/p&gt;&lt;figure class=&quot;highlight markdown&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;![&lt;span class=&quot;string&quot;&gt;bk5.jpg&lt;/span&gt;](&lt;span class=&quot;link&quot;&gt;/images/bk5.jpg &quot;测试图&quot;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;&lt;img src=&quot;/images/bk5.jpg&quot; alt=&quot;bk5.jpg&quot; title=&quot;测试图&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;/images/%E8%83%8C%E6%99%AF%E5%9B%BE.jpg&quot; alt=&quot;背景图.jpg&quot; title=&quot;测试图&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="杂记" scheme="https://bbasakura.github.io/categories/%E6%9D%82%E8%AE%B0/"/>
+    
+    
+      <category term="博客" scheme="https://bbasakura.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
   
   <entry>
     <title>本地图片不显示问题</title>
