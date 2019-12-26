@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://bbasakura.github.io/"/>
-  <updated>2019-12-26T03:42:09.760Z</updated>
+  <updated>2019-12-26T03:02:27.041Z</updated>
   <id>https://bbasakura.github.io/</id>
   
   <author>
@@ -15,32 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>tagstest</title>
-    <link href="https://bbasakura.github.io/posts/843121599.html"/>
-    <id>https://bbasakura.github.io/posts/843121599.html</id>
-    <published>2019-12-26T03:41:54.000Z</published>
-    <updated>2019-12-26T03:42:09.760Z</updated>
-    
-    <content type="html"><![CDATA[<!-- build time:Thu Dec 26 2019 15:19:53 GMT+0800 (GMT+08:00) --><p>这是测试</p><!-- rebuild by neat -->]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!-- build time:Thu Dec 26 2019 15:19:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;这是测试&lt;/p&gt;&lt;!-- rebuild by neat --&gt;
-      
-    
-    </summary>
-    
-    
-      <category term="test" scheme="https://bbasakura.github.io/categories/test/"/>
-    
-    
-      <category term="tags测试" scheme="https://bbasakura.github.io/tags/tags%E6%B5%8B%E8%AF%95/"/>
-    
-  </entry>
   
   <entry>
     <title>计算机网络</title>
